@@ -1,7 +1,7 @@
 import React from 'react'
 import Image,{StaticImageData} from "next/image"
-import { IconBase, IconType } from "react-icons"
-import Icons from '../components/Services/Icons'
+import { IconType } from "react-icons"
+// import Icons from '../components/Services/Icons'
 
 
 interface clientprops {

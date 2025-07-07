@@ -1,5 +1,5 @@
 
-import { FaSnowflake,FaFacebook, FaTwitter,FaHome } from 'react-icons/fa'
+// import { FaSnowflake,FaFacebook, FaTwitter,FaHome } from 'react-icons/fa'
 import Cardpro from './Cardpro'
 import { FaPlus } from 'react-icons/fa'
 import OrangeCard from './OrangeCard'

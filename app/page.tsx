@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Hero from "./Hero";
 import About from './About/About'
 import HappyClients from './Testmonials/HappyClients'

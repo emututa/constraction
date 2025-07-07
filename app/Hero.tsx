@@ -1,9 +1,9 @@
 import React from 'react'
 import NavBar from './components/Navbar/NavBar'
-import Services from './components/Services/Services'
-import About from './About/About'
-import HappyClients from './Testmonials/HappyClients'
-import Project from './components/Project/Project'
+// import Services from './components/Services/Services'
+// import About from './About/About'
+// import HappyClients from './Testmonials/HappyClients'
+// import Project from './components/Project/Project'
 
 const Hero = () => {
   return (
